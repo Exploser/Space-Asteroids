@@ -27,9 +27,32 @@
 
 ### Installing
 
-Clone the repository to your local machine using:
+You can download the [Installer](https://exploser.itch.io/space-asteroids) from Itch.io
 
-```bash
-git clone https://github.com/yourusername/space-asteroids.git
+## Contributing
 
-Navigate to the project directory:
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+To contribute:
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Itch.io - [@Explser](https://exploser.itch.io)
+
+## Acknowledgements
+
+- [GameMaker Studio 2](https://www.yoyogames.com/gamemaker)
+- [Othneil Drew's Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+- [The Guide](https://www.youtube.com/watch?v=nwlvT-L9vFg&t=1s)
+
+Enjoy the game, and I look forward to seeing your contributions!

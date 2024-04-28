@@ -13,7 +13,6 @@
 - **Engaging Arcade Gameplay:** Classic arcade style with a modern twist, featuring smooth controls and challenging scenarios.
 - **Increasing Difficulty Levels:** Each level introduces harder challenges and more aggressive enemies.
 - **Power-Ups and Upgrades:** Enhance your ship with speed boosts, stronger shields, and powerful weapons.
-- **Leaderboard System:** Compete with players worldwide to secure your place at the top of the leaderboard.
 - **Retro Pixel Art Style:** Embrace the nostalgia with beautiful pixel art graphics.
 - **Ship Customization:** Unlock and choose from various ship designs, each with unique abilities.
 - **Energetic Music:** A dynamic soundtrack that enhances the gaming experience.

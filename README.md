@@ -2,6 +2,12 @@
 
 **Space Asteroids** is an arcade space shooter game developed using GameMaker Studio 2. It offers classic arcade gameplay combined with modern game development techniques. Navigate through treacherous asteroid fields and battle aggressive space enemies in your quest to achieve the highest score!
 
+## Gameplay 
+
+![image](https://github.com/Exploser/Space-Asteroids/assets/126280113/9ddf5ba3-24f8-471d-a47a-71d7377a5a35)
+![image](https://github.com/Exploser/Space-Asteroids/assets/126280113/a372439b-2ead-45aa-8f73-7a870d664eb1)
+
+
 ## Features
 
 - **Engaging Arcade Gameplay:** Classic arcade style with a modern twist, featuring smooth controls and challenging scenarios.
